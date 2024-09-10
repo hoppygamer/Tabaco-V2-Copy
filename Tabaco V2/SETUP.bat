@@ -109,3 +109,4 @@ pip install pyinstaller
 pip install pygame
 
 echo All packages installed successfully.
+echo Please use this carefully.
